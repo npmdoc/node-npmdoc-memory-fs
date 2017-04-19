@@ -1,9 +1,14 @@
-# api documentation for  [memory-fs (v0.4.1)](https://github.com/webpack/memory-fs)  [![npm package](https://img.shields.io/npm/v/npmdoc-memory-fs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-memory-fs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-memory-fs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-memory-fs)
+# npmdoc-memory-fs
+
+#### api documentation for  [memory-fs (v0.4.1)](https://github.com/webpack/memory-fs)  [![npm package](https://img.shields.io/npm/v/npmdoc-memory-fs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-memory-fs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-memory-fs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-memory-fs)
+
 #### A simple in-memory filesystem. Holds data in a javascript object.
 
-[![NPM](https://nodei.co/npm/memory-fs.png?downloads=true)](https://www.npmjs.com/package/memory-fs)
+[![NPM](https://nodei.co/npm/memory-fs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/memory-fs)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-memory-fs/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-memory-fs_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-memory-fs/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-memory-fs/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-memory-fs/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-memory-fs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-memory-fs/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-memory-fs/build/screenCapture.npmPackageListing.svg)
 
@@ -55,13 +60,11 @@
     "main": "lib/MemoryFileSystem.js",
     "maintainers": [
         {
-            "name": "sokra",
-            "email": "tobias.koppers@googlemail.com"
+            "name": "sokra"
         }
     ],
     "name": "memory-fs",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/webpack/memory-fs.git"
@@ -74,16 +77,6 @@
     "version": "0.4.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module memory-fs](#apidoc.module.memory-fs)
-
-
-
-# <a name="apidoc.module.memory-fs"></a>[module memory-fs](#apidoc.module.memory-fs)
 
 
 
